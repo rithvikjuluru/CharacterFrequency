@@ -37,3 +37,34 @@ public class CharacterFrequency{
     System.out.println("Non-alphabetic characters: " + nonAlphabet);
   }
 }
+
+/*
+Text is the Gettysburg Address: 
+A: 0    a: 102
+B: 1    b: 13
+C: 0    c: 31
+D: 0    d: 58
+E: 0    e: 165
+F: 1    f: 26
+G: 1    g: 27
+H: 0    h: 80
+I: 3    i: 65
+J: 0    j: 0
+K: 0    k: 3
+L: 0    l: 42
+M: 0    m: 13
+N: 1    n: 76
+O: 0    o: 93
+P: 0    p: 15
+Q: 0    q: 1
+R: 0    r: 79
+S: 0    s: 44
+T: 2    t: 124
+U: 0    u: 21
+V: 0    v: 24
+W: 2    w: 26
+X: 0    x: 0
+Y: 0    y: 10
+Z: 0    z: 0
+Non-alphabetic characters: 302
+*/
